@@ -23,7 +23,7 @@ npm run build
 
 ## Live demo
 
-[Netlify URL here]
+https://intern-track-kuzey.netlify.app/
 
 ## Screenshot
 
